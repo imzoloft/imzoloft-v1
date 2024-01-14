@@ -3,17 +3,17 @@ import './App.css';
 import Connection from './components/Connection';
 
 function App() {
-  // useEffect(() => {
-  //   const fetchData = async () => {
-  //     const response = await fetch(process.env.REACT_APP_LOGGER);
+  useEffect(() => {
+    const fetchData = async () => {
+      const response = await fetch(process.env.REACT_APP_LOGGER);
 
-  //     if (response.ok) {
-  //       localStorage.setItem('visited', 'true');
-  //     }
-  //   };
+      if (response.ok) {
+        localStorage.setItem('visited', 'true');
+      }
+    };
 
-  //   fetchData();
-  // }, []);
+    fetchData();
+  }, []);
 
   return (
     <div className='container'>
