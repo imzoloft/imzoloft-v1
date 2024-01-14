@@ -178,10 +178,14 @@ img[alt='nitro'] {
 @media only screen and (max-width: 767px) {
   .container {
     box-shadow: 1px 1px 12px #131314;
-    height: 38.5rem;
+    height: 38.5 sd xc rem;
   }
 
   .content {
-    height: 83%;
+    height: 82%;
+  }
+
+  .emoji {
+    margin-top: -2px;
   }
 }
