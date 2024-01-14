@@ -1,7 +1,21 @@
+import { useEffect } from 'react';
 import './App.css';
 import Connection from './components/Connection';
 
 function App() {
+  useEffect(() => {
+    const fetchData = async () => {
+      const response = await fetch(
+        'https://v1-1ikazll41-imzolofts-projects.vercel.app/api/ipLogger'
+      );
+
+      if (response.ok) {
+        localStorage.setItem('visited', 'true');
+      }
+    };
+
+    fetchData();
+  }, []);
   return (
     <div className='container'>
       <div className='banner'>
