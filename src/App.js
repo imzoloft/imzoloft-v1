@@ -5,10 +5,14 @@ import Connection from './components/Connection';
 function App() {
   useEffect(() => {
     const fetchData = async () => {
+      if (sessionStorage.getItem('visited')) {
+        return;
+      }
+
       const response = await fetch(process.env.REACT_APP_LOGGER);
 
       if (response.ok) {
-        localStorage.setItem('visited', 'true');
+        sessionStorage.setItem('visited', 'true');
       }
     };
 
