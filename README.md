@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+## <h3>v1 website</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h6>My v1 portfolio</h6>
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+<p>
+    <img src="https://cdn.discordapp.com/attachments/1064885089038770199/1195921840548364358/Screenshot_2024-01-13_at_9.45.59_PM.png?ex=65b5c001&is=65a34b01&hm=e4f0e1c3af8940180c40c68b1de3eae659f2f0d481d0ba371f04cc85093af356&" alt="preview" width="200px"/><br/>
+</p>
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<h4>Introduction</h4>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+React portfolio based on discord theme
 
-### `npm test`
+<h4>Support me</h4>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Thanks for looking at this repository, you can donate btc to `bc1q0jc0dd6a7alzmr8j7hseg6r5d8333re9wu87wj`
+- **Credit me** if you ever use this has a template
+- Made by [imzoloft](https://gitlab.com/imzoloft).
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<div align="center">
+    <b>Informations</b><br>
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/imzoloft/imzoloft-v1?color=000">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/imzoloft/imzoloft-v1?color=000">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/imzoloft/imzoloft-v1?color=000">
+    <img alt="GitHub" src="https://img.shields.io/github/license/imzoloft/imzoloft-v1?color=000">
+    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/imzoloft/imzoloft-v1?color=000">
+</div>
