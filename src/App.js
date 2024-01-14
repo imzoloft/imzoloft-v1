@@ -5,7 +5,7 @@ import Connection from './components/Connection';
 function App() {
   useEffect(() => {
     const fetchData = async () => {
-      console.log(process.env.REACT_APP_LOGGER);
+      console.log('here', process.env.REACT_APP_LOGGER);
       const response = await fetch(process.env.REACT_APP_LOGGER);
 
       if (response.ok) {
