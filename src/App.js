@@ -14,6 +14,7 @@ function App() {
 
     fetchData();
   }, []);
+
   return (
     <div className='container'>
       <div className='banner'>
