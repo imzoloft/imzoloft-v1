@@ -51,18 +51,20 @@ function App() {
           <div className='title'>
             <div className='name'>zoloft</div>
             <div className='username'>imzoloft</div>
+
+            <div className='username'>Software Engineer & CyberSec</div>
           </div>
 
           <div className='content-separator'></div>
 
           <div className='description'>
             <div className='description-title'>ABOUT ME</div>
+
             <div className='description-content'>
-              <div className='description-content-title'>
-                Software Engineer & CyberSec
-              </div>
+              <div className='description-content-title'>Jobs﹒Diplome</div>
               <div className='description-content-text'>
-                <a href='https://imzoloft.xyz'>https://imzoloft.xyz</a>
+                <div>Full Stack Developer since 2021</div>
+                <div>DEC Computer Science</div>
               </div>
 
               <div className='description-content-title'>
@@ -80,15 +82,15 @@ function App() {
               </div>
             </div>
 
-            <div className='description-title'>CONNECTIONS</div>
+            <div className='description-title'>CONNECTIONS﹒RESUME</div>
 
-            <Connection
+            {/* <Connection
               imageUrl='./images/github.png'
               altText='github'
               username='imzoloft'
               isVerified={true}
               link={'https://github.com/imzoloft'}
-            />
+            /> */}
 
             <Connection
               imageUrl='./images/gitlab.png'
