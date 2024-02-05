@@ -50,9 +50,9 @@ function App() {
         <div className='content'>
           <div className='title'>
             <div className='name'>zoloft</div>
-            <div className='username'>imzoloft</div>
+            <div className='username'>sir.lavoie (tiktok/insta)</div>
 
-            <div className='username'>Software Engineer & CyberSec</div>
+            <div className='username'>Software Engineer & Lifestyle</div>
           </div>
 
           <div className='content-separator'></div>
@@ -68,7 +68,7 @@ function App() {
               </div>
 
               <div className='description-content-title'>
-                Revolutionize﹒ProxyAPI﹒Development
+                Revolutionize﹒Development
               </div>
               <div className='description-content-text'>
                 <a href='https://discord.gg/2VDpC6xFkE'>
